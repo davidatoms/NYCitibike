@@ -7,3 +7,6 @@ Columbia Data Analytics Module 14 - Using Tableau, this project will present a b
 - How to use Tableau worksheets to display data in a professional way.
 - How to portray data accurately using Tableau dashboards. 
 
+## Results
+
+## Summary
