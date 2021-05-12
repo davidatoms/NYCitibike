@@ -15,4 +15,9 @@ place that folder in the gitignore file to keep my repository light and clean.
    user trips by gender by weekday viz;
 3. Create a story and report for the final presentation.
 
+Follow this link for [David's Public Tableau Board](https://public.tableau.com/profile/david.adams2751#!/vizhome/CitibikeUsageinNYC_16208434735690/CitibikeUsageinNYC) . See below for a preview of the Top End Locations of the NYC Citibikes from my analysis.
+
+![NYC Top Ending Locations](NYC_End_Loc.png)
+
 ## Summary:
+There were times that saw more people using bikes than others. There were places that saw more bikes being picked up and dropped off at other locations. There were differences in the bike usage by gender. To best make any real conclusions, further data is needed to understand the distance the bike users travelled, the count of different demographics in certain areas by both inhabitation levels and work levels, and the revenue made. With this extra data, the visualizations we created here will be more versatile for insights into business and usage intelligence.
